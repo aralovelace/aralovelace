@@ -5,3 +5,9 @@
 
 - [Blog](https://aralovelace.dev)
 - [Instragram](https://www.instagram.com/aralovelace/)
+
+
+## Portfolio
+
+- [Simple Trello App (using React)](https://aralovelace.github.io/my-simple-trello/) 
+
