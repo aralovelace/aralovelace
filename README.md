@@ -4,7 +4,7 @@
 ## I post my coding tutorial here:
 
 - [Blog](https://aralovelace.dev)
-- [Instragram](https://www.instagram.com/aralovelace/)
+- [Instagram](https://www.instagram.com/aralovelace/)
 
 
 ## Portfolio
