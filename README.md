@@ -1,5 +1,5 @@
 # Hi I am April! 👋
-!["laptop image"](https://aralovelace.files.wordpress.com/2020/08/black-and-cream-classic-technology-facebook-cover.png)
+!["laptop image"](https://aralovelace.files.wordpress.com/2020/08/april-smith.png)
 
 ## I post my coding tutorial here:
 
