@@ -1,5 +1,5 @@
 # Hi I am April! 👋
-!["laptop image"](https://aralovelace.files.wordpress.com/2020/07/screenshot-2020-07-13-at-20.45.55.png)
+!["laptop image"](https://aralovelace.files.wordpress.com/2020/08/black-and-cream-classic-technology-facebook-cover.png)
 
 ## I post my coding tutorial here:
 
@@ -10,4 +10,4 @@
 ## Portfolio
 
 - [Simple Trello App (using React)](https://aralovelace.github.io/my-simple-trello/) 
-
+- [Aralovelace Recipe App (Angular & Firebase)](https://aralovesbaking.web.app/)
