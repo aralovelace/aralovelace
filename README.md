@@ -5,6 +5,7 @@
 
 - [Blog](https://aralovelace.dev)
 - [Instagram](https://www.instagram.com/aralovelace/)
+- [DEV Posts](https://dev.to/aralovelace)
 
 
 ## Frontend Portfolio (Personal Projects)
