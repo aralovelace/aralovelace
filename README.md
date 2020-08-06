@@ -7,7 +7,7 @@
 - [Instagram](https://www.instagram.com/aralovelace/)
 
 
-## Portfolio
+## Frontend Portfolio (Personal Projects)
 
 - [Simple Trello App (using React)](https://aralovelace.github.io/my-simple-trello/) 
 - [Aralovelace Recipe App (Angular & Firebase)](https://aralovesbaking.web.app/)
