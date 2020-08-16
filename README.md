@@ -10,6 +10,6 @@
 
 ## Frontend Portfolio (Personal Projects)
 
-- [Portfolio (Angular & MDBootstrap)](https://aralovelace-portfilio.web.app/)
+- [Portfolio (Angular & MDBootstrap)](https://portfolio.aralovelace.dev/)
 - [Simple Trello App (using React)](https://aralovelace.github.io/my-simple-trello/) 
 - [Aralovelace Recipe App (Angular & Firebase)](https://aralovesbaking.web.app/)
