@@ -4,11 +4,10 @@
 ## I post my coding tutorials here:
 
 - [Blog](https://aralovelace.dev)
-- [Instagram](https://www.instagram.com/aralovelace/)
 - [DEV Posts](https://dev.to/aralovelace)
 
 
-## Frontend Portfolio (Personal Projects)
+## Personal Projects
 
 - [Portfolio (Angular & MDBootstrap)](https://portfolio.aralovelace.dev/)
 - [Simple Trello App (using React)](https://aralovelace.github.io/my-simple-trello/) 
